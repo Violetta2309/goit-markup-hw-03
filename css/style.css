@@ -301,12 +301,12 @@ img {
   line-height: calc(31 / 26);
   letter-spacing: 0.03em;
   color: var(--accent-text-color);
-  margin-bottom: 20px;
+  
 }
 
 .logo-footer {
   color: var(--hero-button-text);
-  margin-bottom: 20px;
+ 
 }
 
 .contacts {
@@ -317,6 +317,9 @@ img {
 
 .footer {
   text-align: justify;
+}
+.contacts-list{
+  margin-top: 20px;
 }
 
 .contacts-street {
